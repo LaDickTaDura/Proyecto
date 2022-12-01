@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 st.title("Licenciamiento Institucional")
-st.write("El Licenciamiento Institucional es un procedimiento obligatorio para todas las universidades del país
+st.write("El Licenciamiento Institucional es un procedimiento obligatorio para todas las universidades del país")
          
          
          
